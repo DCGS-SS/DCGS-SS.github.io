@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### About me:
 
-A place to include any other types of information that you'd like to include about yourself.
+I like coding and programming things. I also do enjoy learning languages (foreign and computing), and difficult maths questions.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[satvik.sinha@challoners.org](mailto:satvik.sinha@challoners.org)
