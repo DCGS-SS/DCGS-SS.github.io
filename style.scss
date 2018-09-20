@@ -49,12 +49,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 table, tr, td {
-   border: #000000 solid 5px; 
+   border: #000000 solid 5px;
+   width: 100px;
 }
 
 h1 {
   font-size: 30px;
-  font-color: #000000;
+  color: #ffffff;
   a {
     color: inherit;
   }
@@ -62,7 +63,7 @@ h1 {
 
 h2 {
   font-size: 24px;
-  font-color: #ffffff
+  color: ##ccccff;
 }
 
 h3 {
