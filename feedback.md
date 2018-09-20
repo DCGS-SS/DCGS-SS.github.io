@@ -13,4 +13,4 @@ The most preferred way to give some feedback to me about the website is by filli
 
 The link to it is here: https://goo.gl/forms/9jeK0LFihRXGCuTA3
 
-You could also email suggestions to me at but I wiil be more likely to notice it if it is from the form
+You could also email suggestions to me at [satvik.sinha@challoners.org](mailto:satvik.sinha@challoners.org) but I wiil be more likely to notice it if it is from the form
