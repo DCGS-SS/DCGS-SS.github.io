@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /contacting-me/
+title: Feedback
+permalink: /feedback/
 ---
 
 
-### Contacting Me
+### Feedback on the website
