@@ -8,8 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title
-</td>
+    <td>Title</td>
     <td>Creating a new blog website.</td>
     <td>Date</td>
     <td>06/09/2018</td>
@@ -36,7 +35,6 @@ published: true
 <table>
   <tr>
     <td>How did you use your learning habits this week?</td>
-    <td></td>
   </tr>
   <tr>
     <td>Persevering</td>
@@ -60,19 +58,15 @@ published: true
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
   </tr>
   <tr>
     <td>I maybe could have pushed myself more to actually accomplish more in the lesson.</td>
-    <td></td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
   </tr>
   <tr>
     <td>Work harder, and don’t talk much.</td>
-    <td></td>
   </tr>
 </table>
 
