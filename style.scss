@@ -19,9 +19,9 @@ html {
 
 body {
 	background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/04/Stars-wallpaper-HD-desktop-free-download.jpg");
-  font: 18px/1.4 $helvetica;
   color: $white;
   background-attachment: fixed;
+  font: 18px/1.4 $helvetica;
 }
 
 .container {
@@ -48,17 +48,25 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+//TABLE STUFF//
 table, tr, td {
    border: #000000 solid 5px;
-   padding: 10px;
+   padding: 0 10px;
+}
+
+.title {
+   font-size: 22px;
+   font-family: $georgia;
+}
+
+.desc {
+   font-size: 18px;
+   font-family: $helvetica;
 }
 
 h1 {
   font-size: 30px;
   color: #ffffff;
-  a {
-    color: inherit;
-  }
 }
 
 h2 {
