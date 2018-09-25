@@ -53,7 +53,7 @@ published: true
     <td class="desc">I reflected on the amount of work I did in the lesson, and gauged from that what I should do for homework.</td>
   </tr>
   <tr>
-    <td class="title"><td>Engagement</td>
+    <td class="title">Engagement</td>
     <td class="desc">N/A</td>
   </tr>
   <tr>
