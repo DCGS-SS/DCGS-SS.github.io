@@ -1,8 +1,8 @@
 ---
-title: More Codecadamy.py
+title: More_Codecadamy.py
 layout: post
 author: satvik.sinha
-permalink: /more-codecadamy.py/
+permalink: /more_codecadamy.py/
 source-id: 1IalFXtUttAZ0AQGUJ-zV49cLpRTonoPG0ayveb08OcM
 published: true
 ---
