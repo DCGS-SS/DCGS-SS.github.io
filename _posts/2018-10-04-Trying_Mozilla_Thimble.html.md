@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td class="title">Title</td
+    <td class="title">Title</td>
     <td class="desc">Trying out Mozilla Thimble Blogs</td>
     <td class="title">Date</td>
     <td class="desc">04/10/2018</td>
