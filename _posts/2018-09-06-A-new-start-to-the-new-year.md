@@ -11,7 +11,7 @@ published: true
     <td class="title">Title</td>
     <td class="desc">Creating a new blog website.</td>
     <td class="title">Date</td>
-    <td class="desc"06/09/2018</td>
+    <td class="desc">06/09/2018</td>
   </tr>
 </table>
 
