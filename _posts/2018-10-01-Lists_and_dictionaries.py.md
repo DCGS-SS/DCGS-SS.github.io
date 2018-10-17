@@ -11,7 +11,7 @@ published: true
     <td class="title">Title</td>
     <td class="desc">Lists and Dictionaries in Python.</td>
     <td class="title">Date</td>
-    <td class="desc"> 27/09/2018</td>
+    <td class="desc"> 27/09/2018</td
   </tr>
 </table>
 
