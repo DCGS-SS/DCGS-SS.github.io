@@ -42,7 +42,7 @@ published: true
   </tr>
   <tr>
     <td class="title">Questioning?</td>
-    <td class="desc">N/A</td>
+    <td class="desc"><em><strong>N/A</strong></em></td>
   </tr>
   <tr>
     <td class="title">Independence</td>
