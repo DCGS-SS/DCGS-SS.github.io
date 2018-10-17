@@ -11,7 +11,7 @@ published: true
     <td class="title">Title</td>
     <td class="desc">Expanding our Knowledge of Python on Codecademy</td>
     <td class="title">Date</td>
-    <td class="desc">20/09/2018</td
+    <td class="desc">20/09/2018</td>
   </tr>
 </table>
 
