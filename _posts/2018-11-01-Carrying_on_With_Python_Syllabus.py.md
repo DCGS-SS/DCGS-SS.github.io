@@ -31,7 +31,6 @@ published: true
   </tr>
 </table>
 
-
 <table>
   <tr>
     <td class="title">How did you use your learning habits this week?</td>
@@ -61,7 +60,7 @@ published: true
   </tr>
   <tr>
     <td class="desc">To improve MY learning experience, I should not have helped at all, but I think that would just be selfish and rude. Even if it does hinder my learning experience, I do believe that it is something I should have done. However, there should be a balance towards the two things.
-  </tr>
+  </td>
   <tr>
     <td class="title">What changes do you need to make to improve your learning next time?</td>
   </tr>
