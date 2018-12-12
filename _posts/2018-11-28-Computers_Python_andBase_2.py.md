@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <td class="title">Title</td>
     <td>Learning about computers, and why they use base two, and testing about in Repl.</td>
-    <td>Date</td>
+    <td class="title">Date</td>
     <td>28/11/2018</td>
   </tr>
 </table>
@@ -18,15 +18,15 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <td class="title">Starting point:</td>
     <td>Lots of Python knowledge from Codecademy</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <td class="title">Target for this lesson?</td>
     <td>To further increase that, and learn more about the workings of binary and computers.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <td class="title">Did I reach my target? </td>
     <td>Yes, I did so successfully.</td>
   </tr>
 </table>
@@ -34,44 +34,39 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
-    <td></td>
+    <td class="title">How did you use your learning habits this week?</td>
   </tr>
   <tr>
-    <td>Persevering</td>
+    <td class="title">Persevering</td>
     <td>I persevered to try and think of appropriate answers to the questions asked by the teacher.</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
+    <td class="title">Questioning?</td>
     <td>I asked the teacher some questions on what would happen if the code could be implemented in a different way.</td>
   </tr>
   <tr>
-    <td>Independence</td>
-    <td>(Class Discussion Lesson) - N/A</td>
+    <td class="title">Independence</td>
+    <td><strong><em>(Class Discussion Lesson) - N/A</em></strong></td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <td class="title">Reflecting</td>
     <td>I reflected on the purpose of the lesson, and what concepts and ideas it taught me, and why we did this type of lesson, this week.</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <td class="title">Engagement</td>
     <td>I really engaged with the concepts and ideas presented in the lesson, knowing it would help me in later life if I do go on to do this as a profession.</td>
   </tr>
   <tr>
-    <td>What could have gone better in your learning?</td>
-    <td></td>
+    <td class="title">What could have gone better in your learning?</td>
   </tr>
   <tr>
     <td>I am really not sure, this week. I could have maybe asked more questions, but that's really everything.</td>
-    <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
+     <td class="title">What changes do you need to make to improve your learning next time?</td>
   </tr>
   <tr>
     <td>Don’t hesitate to ask questions</td>
-    <td></td>
   </tr>
 </table>
 
