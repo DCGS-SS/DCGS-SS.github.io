@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td class="title">Title</td>
+    <td class="title"Title</td>
     <td class="desc">To carry on working on our python syllabus.</td>
     <td class="title">Date</td>
     <td class="desc">18/10/2018</td>
