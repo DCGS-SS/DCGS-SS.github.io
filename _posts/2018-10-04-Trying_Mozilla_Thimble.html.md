@@ -38,7 +38,7 @@ published: true
   </tr>
   <tr>
     <td class="title">Persevering</td>
-    <td class="desc">I persevered when trying out thimble, because it is a completely new thing, however there were similarities</td>
+    <td class="desc">I persevered when trying out Thimble, because it is a completely new thing, however there were similarities.</td>
   </tr>
   <tr>
     <td class="title">Questioning?</td>
