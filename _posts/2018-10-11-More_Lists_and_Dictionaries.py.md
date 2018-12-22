@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td class="title">Title</td>
-    <td class="desc">Revising and carrying on with the Python Course on Codecademy</td>
+    <td class="desc">Revising and carrying on with the Python Course on Codecademy.</td>
     <td class="title">Date</td>
     <td class="desc">11/10/2018</td>
   </tr>
