@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td class="title">Starting point:</td>
-    <td class="desc">This Github blog is basically my starting point.</td>
+    <td class="desc">This Github blog is my starting point.</td>
   </tr>
   <tr>
     <td class="title">Target for this lesson?</td>
