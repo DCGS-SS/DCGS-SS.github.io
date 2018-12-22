@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td class="title">Target for this lesson?</td>
-    <td class="desc">To start afresh and delete the old repository, and create a new one, and make some changes.</td>
+    <td class="desc">To start afresh and delete the old repository, create a new one, and make some changes.</td>
   </tr>
   <tr>
     <td class="title">Did I reach my target? </td>
